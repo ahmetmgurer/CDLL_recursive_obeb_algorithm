@@ -1,0 +1,1 @@
+Sayilar.txt ana dizindedir.
